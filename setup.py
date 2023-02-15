@@ -21,7 +21,7 @@ setuptools.setup(
     python_requires='>=3.6',
     install_requires=[
         "requests~=2.23.0",
-        "werkzeug==0.16.1",
+        "werkzeug==2.2.3",
         "flask~=1.1.2",
         "flask_restplus",
         "sqlalchemy~=1.3.17",
